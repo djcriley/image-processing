@@ -26,4 +26,15 @@ Each folder contains a different method to parallelize the serial implementation
     - Header file
     - runtimes CSV
     - script to run code
+    
+## Calculated Speedup Times
+Speed up times calculated by timed parallel computation times divided by serial computation times. This excludes file read and writes in order to focus on speed up from parallelized functions.
+
+![Screenshot 2022-11-17 at 3 14 07 PM](https://user-images.githubusercontent.com/43011353/202580009-b3bb3193-7ce5-4680-ab81-f078b90353f0.png)
+
+![Screenshot 2022-11-17 at 3 09 45 PM](https://user-images.githubusercontent.com/43011353/202579905-9810a64c-7589-4b1d-b70d-024807b0bfbb.png)
+
+![Screenshot 2022-11-16 at 9 47 25 PM](https://user-images.githubusercontent.com/43011353/202579913-f79c78d1-e8e4-499f-a5de-bd2ef4b36e0f.png)
+
+
   
